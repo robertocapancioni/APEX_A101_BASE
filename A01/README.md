@@ -1,1 +1,1 @@
-# A01 Materiale relativo al secondo esercizio
+# A01 Materiale relativo al primo esercizio
